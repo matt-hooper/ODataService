@@ -1,0 +1,16 @@
+c:\dev\ODataService\obj\Debug\netcoreapp2.2\ODataService.csprojAssemblyReference.cache
+c:\dev\ODataService\obj\Debug\netcoreapp2.2\ODataService.RazorAssemblyInfo.cache
+c:\dev\ODataService\obj\Debug\netcoreapp2.2\ODataService.RazorAssemblyInfo.cs
+c:\dev\ODataService\obj\Debug\netcoreapp2.2\ODataService.AssemblyInfoInputs.cache
+c:\dev\ODataService\obj\Debug\netcoreapp2.2\ODataService.AssemblyInfo.cs
+c:\dev\ODataService\bin\Debug\netcoreapp2.2\ODataService.deps.json
+c:\dev\ODataService\bin\Debug\netcoreapp2.2\ODataService.runtimeconfig.json
+c:\dev\ODataService\bin\Debug\netcoreapp2.2\ODataService.runtimeconfig.dev.json
+c:\dev\ODataService\bin\Debug\netcoreapp2.2\ODataService.dll
+c:\dev\ODataService\bin\Debug\netcoreapp2.2\ODataService.pdb
+c:\dev\ODataService\obj\Debug\netcoreapp2.2\ODataService.RazorTargetAssemblyInfo.cache
+c:\dev\ODataService\obj\Debug\netcoreapp2.2\ODataService.dll
+c:\dev\ODataService\obj\Debug\netcoreapp2.2\ODataService.pdb
+c:\dev\ODataService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+c:\dev\ODataService\bin\Debug\netcoreapp2.2\appsettings.json
+c:\dev\ODataService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
